@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek kumar</h1>
 <h3 align="center">A passionate Software developer & Data Analyst from India</h3>
 
-- 🌱 I’m currently learning **Software development**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 📫 How to reach me **Shahabhiofc080@gmail.com**
 
