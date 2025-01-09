@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek kumar</h1>
-<h3 align="center">A passionate Software developer & Data Analyst from India</h3>
+<h3 align="center">Passionate about creating efficient software solutions and uncovering insights through data.</h3>
 
 - 🌱 I’m currently learning **Machine Learning**
 
